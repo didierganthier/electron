@@ -49,3 +49,4 @@ fix_expose_the_built-in_electron_module_via_the_esm_loader.patch
 api_pass_oomdetails_to_oomerrorcallback.patch
 src_iwyu_in_cleanup_queue_cc.patch
 fix_expose_lookupandcompile_with_parameters.patch
+api_pass_oomdetails_to_oomerrorcallback.patch
