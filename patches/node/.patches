@@ -46,3 +46,6 @@ fixup_for_wc_98-compat-extra-semi.patch
 drop_deserializerequest_move_constructor_for_c_20_compat.patch
 fix_parallel_test-v8-stats.patch
 fix_expose_the_built-in_electron_module_via_the_esm_loader.patch
+api_pass_oomdetails_to_oomerrorcallback.patch
+src_iwyu_in_cleanup_queue_cc.patch
+fix_expose_lookupandcompile_with_parameters.patch
